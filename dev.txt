@@ -1,3 +1,4 @@
 Text text
 Changes
 One more line
+New line
